@@ -1,9 +1,9 @@
-Setting up and AWS IAM user
+Setting up an AWS IAM user
 ==========================
 
 Step1
 -----
-![Logging into AWS console](images/step1.png?raw=true)
+![Step1](images/step1.png?raw=true)
 
 Step2
 -----
@@ -45,8 +45,10 @@ Step11
 -----
 ![Step11](images/step11.png)
 
-Send the following details to your development team
+And finally ... 
 --------------------------------------------------
+Send the following details to your development team
+
 * IAM username
 * IAM user password
-* Account SignIn URL
+* IAM User Sign-In URL

@@ -17,7 +17,23 @@ Step3 : Pass security check
 
 Step4 : Get Client ID & Client Secret
 -----
-![Step4](images/step3.png)
+![Step4](images/step4.png)
+
+Step5 : Go to Settings Tab
+-----
+![Step5](images/step5.png)
+
+Step6 : Go to Advanced Tab
+-----
+![Step6](images/step6.png)
+
+Step7 : Enable Embedded Browser OAuth Login & Enter Valid OAuth redirect URIs
+-----
+![Step7](images/step7.png)
+
+Step8 : Save Changes
+-----
+![Step8](images/step8.png)
 
 And finally ... 
 --------------------------------------------------
